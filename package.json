@@ -1,0 +1,21 @@
+{
+  "name": "learning-elm",
+  "version": "0.0.0",
+  "description": "learning elm language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sukechannnn/learning-elm.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sukechannnn/learning-elm/issues"
+  },
+  "homepage": "https://github.com/sukechannnn/learning-elm",
+  "dependencies": {
+    "elm": "^0.19.0-no-deps"
+  }
+}
